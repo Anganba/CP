@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}"
+            ],
+            "defines": [
+                "${default}"
+            ],
+            "macFrameworkPath": [
+                "${default}"
+            ],
+            "forcedInclude": [
+                "${default}"
+            ],
+            "compileCommands": "${default}",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "${default}",
+                "path": [
+                    "${default}",
+                    "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++"
+                ]
+            },
+            "intelliSenseMode": "${default}",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "compilerPath": "${default}"
+        }
+    ],
+    "version": 4
+}
